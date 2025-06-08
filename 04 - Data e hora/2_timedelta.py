@@ -1,3 +1,5 @@
+# Exemplo usando sistema de entrada e saída de lava rápido 
+
 from datetime import date, datetime, timedelta
 
 tipo_carro = "M"  # P, M, G
