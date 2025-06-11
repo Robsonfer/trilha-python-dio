@@ -27,3 +27,4 @@ resultado = datetime(2023, 7, 25, 10, 19, 20) - timedelta(hours=1)
 print(resultado.time())
 
 print(datetime.now().date())
+print(datetime.now().time())
